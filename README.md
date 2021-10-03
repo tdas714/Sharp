@@ -1,3 +1,4 @@
+![Alt text](https://github.com/tdas714/WISE-REPORTS/blob/main/sharp_logo.png "Wise-Reports") 
 # WISE-REPORTS
 ## News you can trust.
 

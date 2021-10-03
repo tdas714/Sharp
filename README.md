@@ -8,3 +8,5 @@ We will achieve this by providing a decentralized platform where news can be sub
 A single institution/Individual shouldn't decide what  news we should read. We should decide for ourselves.   Journalists are not safe from governments for taking the truth to the public, Truth almost became privilege  in the past few years. We believe everyone    should have the right to know the truth. We believe in a decentralized society where the people will decide the truth. The truth is not decided by a few people. 
 
 We trying to solve the problem by decentralizing the news. we will do this by creating a platform where anyone can submit news, and anyone can vote on it. The people will decide the news they want to read. There will be no censorship.
+
+we welcome every developer, blockchain expert,  journalist to collaborate on this  project. So that we can build a truly decentralized news platform.

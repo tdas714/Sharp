@@ -1,5 +1,5 @@
 ![Alt text](https://github.com/tdas714/WISE-REPORTS/blob/main/sharp_logo.png "Wise-Reports") 
-# WISE-REPORTS
+# Sharp
 ### News you can trust.
 
 This is a decentralized Blockchain based News platform for the masses. Our Goal is to free  the people from the clutches of the Mainstream Media. 

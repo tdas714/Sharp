@@ -1,4 +1,4 @@
-# unabridged
+# WISE-REPORTS
 ## News you can trust.
 
 This is a decentralized Blockchain based News platform for the masses. Our Goal is to free  the people from the clutches of the Mainstream Media. 

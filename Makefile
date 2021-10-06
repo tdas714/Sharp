@@ -1,5 +1,5 @@
 # Create git commit and push of current repo with username and password
-# makefile
+# Add Usename and passward
 git:
 	git add .
 	git commit -m "$m"

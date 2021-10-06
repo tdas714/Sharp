@@ -4,26 +4,5 @@ Objectives:
 1. decentralized network.
 2. Permission-Less Blockchain network that can be run on mobile devices.
 3. News posts is promoted based on verification by anonymous user.(promotion algorithm based weighted on verification)
-4. Every post will be in the blockchain.
 
-Steps:
-1. Create a post structure(transaction)
-2. Create a Block structure(header, Payload([]transaction))
-3. Blockchain structure([]block)
-
-Transaction:(New post/Article/Story transaction / Verification Transaction.):
-1. Header
-2. Post(and verification data)
-
-Header:
-1. Type of Post(New/Verify)
-2. time
-3. Recognition Type
-
-Block:
-1. Header
-2. Array of transaction
-
-Blockchain:
-1. Array of Block
-
+Execution, Validation , Ordering Architecture.

@@ -1,8 +1,0 @@
-Decentralized News Platform for the MASSES
-
-Objectives:
-1. decentralized network.
-2. Permission-Less Blockchain network that can be run on mobile devices.
-3. News posts is promoted based on verification by anonymous user.(promotion algorithm based weighted on verification)
-
-Execution, Validation , Ordering Architecture.
